@@ -28,4 +28,4 @@ Other
 - [Creative Followers Count Display - Twitter API 🐦](https://inkuantum.hashnode.dev/creative-followers-count-display-twitter-api)
 <!-- BLOG-POST-LIST:END -->
 
-👉 [...more blog posts](https://dev.to/inkuantum)
+👉 [...more blog posts](https://inkuantum.hashnode.dev/)
