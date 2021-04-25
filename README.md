@@ -23,7 +23,9 @@ Other
 ### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Ukulele with CSS 🎨](https://inkuantum.hashnode.dev/ukulele-with-css)
+- [Glassmorphism - what's so interesting about it?](https://inkuantum.hashnode.dev/glassmorphism-whats-so-interesting-about-it)
+- [Creative Followers Count Display - Twitter API 🐦](https://inkuantum.hashnode.dev/creative-followers-count-display-twitter-api)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://dev.to/inkuantum)
