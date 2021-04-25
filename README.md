@@ -8,7 +8,7 @@ I also create content on [Twitter](https://twitter.com/Inkuantum) which resolves
 Sometimes 280 characters are not enough to express myself that's why I post monthly blog posts on [DevTo](https://dev.to/inkuantum) and [Hashnode](https://inkuantum.hashnode.dev/).
 
 ---
-Toolbox 🧰
+### Toolbox 🧰
 
 Web Development
 
@@ -17,17 +17,13 @@ Web Development
 Other
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" alt="C# Logo" width="50px" height="50px">  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java Logo" width="50px" height="50px"> <img src="https://cdn.worldvectorlogo.com/logos/unity-69.svg" alt="Unity Logo" width="50px" height="50px">
-<!--
-**Inkuantum/inkuantum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Latest Blog Posts 📖
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+👉 [...more blog posts](https://dev.to/inkuantum)
