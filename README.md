@@ -1,4 +1,5 @@
 ### Heyho, I'm Kirill Inoz! <img src="https://media.tenor.com/images/9e215f13fb9908f29b34b73445f80425/tenor.gif" width=30px>
+
 ---
 
 I'm a Web Developer. The **toolbox** below captures frameworks, programming languages and more tools that I've been working with.
@@ -8,7 +9,7 @@ I also create content on [Twitter](https://twitter.com/Inkuantum) which resolves
 Sometimes 280 characters are not enough to express myself that's why I post monthly blog posts on [DevTo](https://dev.to/inkuantum) and [Hashnode](https://inkuantum.hashnode.dev/).
 
 ---
-### Toolbox 🧰
+#### Toolbox 🧰
 
 Web Development
 
@@ -20,7 +21,7 @@ Other
 
 ---
 
-### Latest Blog Posts 📖
+#### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
 - [Ukulele with CSS 🎨](https://inkuantum.hashnode.dev/ukulele-with-css)
@@ -29,3 +30,14 @@ Other
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://inkuantum.hashnode.dev/)
+
+---
+
+#### GitHub Stats 📈
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inkuantum&theme=radical&layout=compact&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=inkuantum&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+![Twitter Follow](https://img.shields.io/twitter/follow/inkuantum?label=Twitter%20Friends%20%E2%96%B6&style=social)
