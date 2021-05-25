@@ -24,6 +24,7 @@ Sometimes 280 characters are not enough to express myself that's why I post mont
 #### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [Web Scraping with Puppeteer 🎭](https://inkuantum.hashnode.dev/web-scraping-with-puppeteer)
 - [Ukulele with CSS 🎨](https://inkuantum.hashnode.dev/ukulele-with-css)
 - [Glassmorphism - what's so interesting about it?](https://inkuantum.hashnode.dev/glassmorphism-whats-so-interesting-about-it)
 - [Creative Followers Count Display - Twitter API 🐦](https://inkuantum.hashnode.dev/creative-followers-count-display-twitter-api)
