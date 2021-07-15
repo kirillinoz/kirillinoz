@@ -24,11 +24,11 @@ Sometimes 280 characters are not enough to express myself that's why I post mont
 #### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
+- [My 100DaysOfCode in a nutshell 🥜](https://inkuantum.hashnode.dev/100daysofcode)
 - [Mario with CSS 🎨](https://inkuantum.hashnode.dev/mario-with-css)
 - [Web Scraping with Puppeteer 🎭](https://inkuantum.hashnode.dev/web-scraping-with-puppeteer)
 - [Ukulele with CSS 🎨](https://inkuantum.hashnode.dev/ukulele-with-css)
 - [Glassmorphism - what's so interesting about it?](https://inkuantum.hashnode.dev/glassmorphism-whats-so-interesting-about-it)
-- [Creative Followers Count Display - Twitter API 🐦](https://inkuantum.hashnode.dev/creative-followers-count-display-twitter-api)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://inkuantum.hashnode.dev/)
