@@ -42,4 +42,4 @@ Sometimes 280 characters are not enough to express myself that's why I post mont
 [![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=inkuantum&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-![Twitter Follow](https://img.shields.io/twitter/follow/inkuantum?label=Twitter%20Friends%20%E2%96%B6&style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/kirillinoz?label=Twitter%20Friends%20%E2%96%B6&style=social)
