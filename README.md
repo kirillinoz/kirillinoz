@@ -24,11 +24,11 @@ Sometimes 280 characters are not enough to express myself that's why I post mont
 #### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [My first experience with Three.js ⏹](https://kirillinoz.hashnode.dev/my-first-experience-with-threejs)
 - [How did I get into coding?](https://kirillinoz.hashnode.dev/how-did-i-get-into-coding)
 - [My 100DaysOfCode in a nutshell 🥜](https://kirillinoz.hashnode.dev/100daysofcode)
 - [Mario with CSS 🎨](https://kirillinoz.hashnode.dev/mario-with-css)
 - [Web Scraping with Puppeteer 🎭](https://kirillinoz.hashnode.dev/web-scraping-with-puppeteer)
+- [Ukulele with CSS 🎨](https://kirillinoz.hashnode.dev/ukulele-with-css)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://inkuantum.hashnode.dev/)
