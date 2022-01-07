@@ -4,9 +4,9 @@
 #### About me 👦
 I'm a Web Developer. The **toolbox** below captures frameworks, programming languages and more tools that I've been working with.
 
-I also create content on [Twitter](https://twitter.com/Inkuantum) which resolves mostly around tech and web developement. If you're looking for some tips, motivation or inspiration, then it's the right place for you.
+I also create content on [Twitter](https://twitter.com/kirillinoz) which resolves mostly around tech and web developement. If you're looking for some tips, motivation or inspiration, then it's the right place for you.
 
-Sometimes 280 characters are not enough to express myself that's why I post monthly blog posts on [DevTo](https://dev.to/inkuantum) and [Hashnode](https://inkuantum.hashnode.dev/).
+Sometimes 280 characters are not enough to express myself that's why I post monthly blog posts on [DevTo](https://dev.to/kirillinoz) and [Hashnode](https://blog.ikirill.com/).
 
 ---
 #### Toolbox 🧰
