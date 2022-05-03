@@ -31,7 +31,7 @@ Sometimes 280 characters are not enough to express myself that's why I post mont
 - [Web Scraping with Puppeteer 🎭](https://kirillinoz.hashnode.dev/web-scraping-with-puppeteer)
 <!-- BLOG-POST-LIST:END -->
 
-👉 [...more blog posts](https://inkuantum.hashnode.dev/)
+👉 [...more blog posts](https://kirillinoz.hashnode.dev/)
 
 ---
 
