@@ -56,11 +56,11 @@ Sometimes 280 characters are not enough to express myself, that's why I also pos
 #### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [My first experience with Three.js ⏹](https://kirillinoz.hashnode.dev/my-first-experience-with-threejs)
-- [How did I get into coding?](https://kirillinoz.hashnode.dev/how-did-i-get-into-coding)
-- [My 100DaysOfCode in a nutshell 🥜](https://kirillinoz.hashnode.dev/100daysofcode)
-- [Mario with CSS 🎨](https://kirillinoz.hashnode.dev/mario-with-css)
-- [Web Scraping with Puppeteer 🎭](https://kirillinoz.hashnode.dev/web-scraping-with-puppeteer)
+- [Stealing Coin Cat with CSS](https://blog.ikirill.com/stealing-coin-cat-with-css)
+- [Here Is What You Could Build](https://blog.ikirill.com/heres-what-you-could-build-fe)
+- [How I Built Reclip and Learned TypeScript](https://blog.ikirill.com/how-i-built-reclip-and-learned-typescript)
+- [Helpful Communities You Should Know About](https://blog.ikirill.com/helpful-communities-you-should-know-about)
+- [From Gaming to Debugging](https://blog.ikirill.com/from-gaming-to-debugging)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://kirillinoz.hashnode.dev/)
