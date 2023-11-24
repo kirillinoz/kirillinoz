@@ -74,5 +74,3 @@ Sometimes 280 characters are not enough to express myself, that's why I also pos
 #### GitHub Stats 📈
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillinoz&theme=radical&layout=compact&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillinoz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
