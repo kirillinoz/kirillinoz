@@ -72,6 +72,3 @@ Sometimes 280 characters are not enough to express myself, that's why I also pos
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillinoz&theme=radical&layout=compact&hide=c%23)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillinoz&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
-![Twitter Follow](https://img.shields.io/twitter/follow/kirillinoz?label=Twitter%20Friends%20%E2%96%B6&style=social)
