@@ -60,11 +60,11 @@ Sometimes 280 characters are not enough to express myself, that's why I also pos
 #### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Midjourney Alternative with Supabase and Hugging Face in Minutes](https://blog.ikirill.com/create-midjourney-alternative-with-supabase-and-hugging-face-in-minutes)
-- [Build an AI Tool with Supabase Edge Functions](https://blog.ikirill.com/build-an-ai-tool-with-supabase-edge-functions)
-- [Opportunity Meets Preparation | Dev Retro 2022](https://blog.ikirill.com/opportunity-meets-preparation)
-- [How Supabase Powers Mockury](https://blog.ikirill.com/how-supabase-powers-mockury)
-- [Stealing Coin Cat with CSS](https://blog.ikirill.com/stealing-coin-cat-with-css)
+- [Create Midjourney Alternative with Supabase and Hugging Face in Minutes](https://blog.kirillinoz.com/create-midjourney-alternative-with-supabase-and-hugging-face-in-minutes)
+- [Build an AI Tool with Supabase Edge Functions](https://blog.kirillinoz.com/build-an-ai-tool-with-supabase-edge-functions)
+- [Opportunity Meets Preparation | Dev Retro 2022](https://blog.kirillinoz.com/opportunity-meets-preparation)
+- [How Supabase Powers Mockury](https://blog.kirillinoz.com/how-supabase-powers-mockury)
+- [Stealing Coin Cat with CSS](https://blog.kirillinoz.com/stealing-coin-cat-with-css)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://kirillinoz.hashnode.dev/)
