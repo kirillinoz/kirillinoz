@@ -6,7 +6,7 @@ I'm a Full Stack Web Developer. The **toolbox** below captures programming langu
 
 I also create content on [Twitter](https://twitter.com/kirillinoz) which mostly resolves around tech and web developement. If you're looking for some tips, motivation or inspiration, then it's the right place for you.
 
-Sometimes 280 characters are not enough to express myself, that's why I also post blog posts on [Hashnode](https://blog.ikirill.com/) and [DevTo](https://dev.to/kirillinoz).
+Sometimes 280 characters are not enough to express myself, that's why I also post blog posts on [Hashnode](https://kirillinoz.hashnode.dev) and [DevTo](https://dev.to/kirillinoz).
 
 ---
 #### Toolbox 🧰
