@@ -62,11 +62,11 @@ If some icons are difficult to see, switch to dark mode.
 #### Latest Blog Posts 📖
 
 <!-- BLOG-POST-LIST:START -->
-- [Build An Image CMS with Supabase and Lovable](https://blog.kirillinoz.com/build-an-image-cms-with-supabase-and-lovable)
 - [Multi-User Note App with Supabase Realtime](https://blog.kirillinoz.com/multi-user-note-app-with-supabase-realtime)
 - [Create Midjourney Alternative with Supabase and Hugging Face in Minutes](https://blog.kirillinoz.com/create-midjourney-alternative-with-supabase-and-hugging-face-in-minutes)
 - [Build an AI Tool with Supabase Edge Functions](https://blog.kirillinoz.com/build-an-ai-tool-with-supabase-edge-functions)
 - [Opportunity Meets Preparation | Dev Retro 2022](https://blog.kirillinoz.com/opportunity-meets-preparation)
+- [How Supabase Powers Mockury](https://blog.kirillinoz.com/how-supabase-powers-mockury)
 <!-- BLOG-POST-LIST:END -->
 
 👉 [...more blog posts](https://kirillinoz.hashnode.dev/)
