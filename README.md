@@ -91,4 +91,4 @@ If some icons are difficult to see, switch to dark mode.
 
 #### GitHub Stats 📈
 
-[![Kirill's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillinoz)](https://github.com/kirillinoz/github-readme-stats)
+[![Kirill's GitHub stats](https://github-stats-extended.vercel.app/api?username=kirillinoz)](https://github.com/kirillinoz/github-readme-stats)
